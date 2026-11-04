@@ -36,7 +36,8 @@ The sidebar sets the number of guests, songs per guest, top tracks per guest, th
 |---|---|
 | `vibe.py` | Loads the data and builds the playlist |
 | `app.py` | Streamlit interface |
-| `hitting_the_vibe_reimplementation.ipynb` | Step-by-step re-implementation and the tests above (notes in Chinese) |
+| `hitting_the_vibe_reimplementation.ipynb` | Step-by-step re-implementation and the tests above |
+| `index.html` | Static version of the demo with precomputed results, viewable without Python |
 
 ## Data and limits
 
